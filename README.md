@@ -2,6 +2,9 @@
 
 ### Aim
 In this leasson we learn how to create index of our custom dataset and then make query using that index.
+![image](https://github.com/DeepakJaiz/chatgpt_with_internal_kb/assets/120568685/e5cdb7d9-9d13-480f-95a8-3ea97a9fad5c)
+![image](https://github.com/DeepakJaiz/chatgpt_with_internal_kb/assets/120568685/99a8ef70-95af-4424-bf93-47e337a2a93a)
+
 
 ### Reference
 https://medium.com/singapore-gds/integrating-chatgpt-with-internal-knowledge-base-and-question-answer-platform-36a3283d6334
