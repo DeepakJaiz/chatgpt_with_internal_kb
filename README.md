@@ -1,7 +1,7 @@
 # chatgpt_with_internal_kb
 
 ### Aim
-In this leasson we learn how to create index of our custom dataset and then make query using that index.
+In this lesson we learn how to create index of our custom dataset and then make query using that index.
 ![image](https://github.com/DeepakJaiz/chatgpt_with_internal_kb/assets/120568685/e5cdb7d9-9d13-480f-95a8-3ea97a9fad5c)<br/>
 
 
